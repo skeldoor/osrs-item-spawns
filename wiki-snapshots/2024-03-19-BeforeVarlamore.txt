@@ -1,0 +1,327 @@
+Crossbow
+Coins
+Bronze bar
+Bronze sq shield
+Bronze nails
+Bronze med helm
+Iron bar
+Iron pickaxe
+Iron dagger
+Iron scimitar
+Iron sword
+Iron warhammer
+Iron kiteshield
+Iron platebody
+Steel sword
+Steel pickaxe
+Steel longsword
+Steel platelegs
+Bronze bolts
+Iron axe
+Logs
+Knife
+Redberry pie
+Black dagger
+Black scimitar
+Hammer
+Candle
+Air rune
+Bread
+Tinderbox
+Ashes
+Cake
+Rope
+Amulet mould
+Ancestral key
+Arcenia root
+Arctic pine logs
+Asgarnian ale
+Astronomy book
+Attack potion
+Pineapple
+Bronze arrow
+Bronze arrowtips
+Bronze axe
+Bronze chainbody
+Bronze dagger
+Iron full helm
+Iron mace
+Bronze mace
+Bronze pickaxe
+Mithril arrow
+Bronze scimitar
+Bronze spear
+Bronze sword
+Steel dagger
+Steel platebody
+Steel scimitar
+Boots of lightness
+Brass necklace
+Butterfly net
+Cattleprod
+Gold necklace
+Gold ring
+Leather body
+Leather boots
+Phoenix crossbow
+Ruby ring
+Shoes
+Shortbow
+Staff of earth
+Wooden shield
+Beer glass
+Door key (Witch's House)
+Diary (Witch's House)
+Pestle and mortar
+Mind rune
+Dwarf remains
+Raw rat meat
+Pie dish
+Silk
+Cup of tea
+Dwellberries
+Triangle sandwich
+Cooked chicken
+Feather
+Magic whistle
+Holy grail (item)
+Sapphire
+Cheese
+Bones
+Plank
+Steel bar
+Iron knife
+Fly fishing rod
+Lobster pot
+Tiara mould
+Bucket
+Pot
+Raw herring
+Water rune
+Headless arrow
+Herring
+Raw shrimps
+Small fishing net
+Fire rune
+Chisel
+Nature rune
+Chaos rune
+Raw tuna
+Gold bar
+Gold ore
+Bowl of water
+Brass key
+Bird snare
+Cooked meat
+Garlic
+Grapes
+Jug
+Fishing rod
+Spade
+Chocolate bar
+Uncut sapphire
+Bucket of water
+Rat poison
+Child's blanket
+Jug of water
+White apron
+Earth rune
+Cosmic rune
+Clay
+Superantipoison
+Potato
+Body rune
+Needle
+Snape grass
+Bucket of sand
+Ball
+Staff
+Bucket of milk
+Doogle leaves
+Death rune
+Big bones
+Burnt meat
+Longbow
+Beer
+Onion
+Bowl
+Stone ball
+Leather gloves
+Egg
+Orange dye
+Swamp tar
+Kebab
+Harpoon
+Teak plank
+Red dye
+Yellow dye
+Purple dye
+Thread
+Monk's robe top
+Monk's robe
+Box trap
+Dwarven stout
+Grain
+Vial
+Jug of wine
+Wizard hat
+Strange implement
+Insect repellent
+Leather
+Cake tin
+Glassblowing pipe
+Bullseye lantern
+Pickled brain
+Shears
+Seaweed
+Waterskin
+Saw
+Papyrus
+Pungent pot
+White berries
+Strawberry
+Cabbage
+Big fishing net
+Bat bones
+Wolf bones
+Equa leaves
+Mahogany logs
+Tomato
+Cocktail glass
+Ring mould
+Fish food
+Lockpick
+Bracelet mould
+Black robe
+Facemask
+Panning tray
+Red spiders' eggs
+Jangerberries
+Banana
+Iron med helm
+Cooking apple
+Broken glass
+Shiny key
+Dusty key
+Necklace mould
+Holy mould
+Iron nails
+Damaged armour
+Cave nightshade
+Steel arrowtips
+Iron spit
+Sweetcorn
+Druid pouch
+Rotten food
+Blue dragon scale
+Broken arrow
+Wine of zamorak
+Rock (elemental)
+Dragon bitter
+Teasing stick
+Rake
+Potato cactus
+Pole
+Broken pole
+Muddy rock
+Swamp toad (item)
+Pigeon cage
+Fingernails
+Barrel
+Broken fishing rod
+Forlorn boot
+Engine
+Beer tankard
+Premade choc s'dy
+Premade blurb' sp.
+Toad batta
+Sled
+Cocktail shaker
+King worm
+Edible seaweed
+Burnt bones
+Tile
+Rotten apple
+Blue hat (Legends' Quest)
+Empty cup
+Skull (item)
+Chopped onion
+Sliced mushrooms
+Chopped garlic
+Oil lamp
+Feathered journal
+Burnt bread
+Dark fishing bait
+Staff of armadyl
+Right boot
+Left boot
+Lever (Temple of Ikov)
+Bones (Ape Atoll)
+Haemalchemy volume 1
+Tarn's diary
+Rotten barrel
+Old journal
+Red cog
+Key (Waterfall Dungeon)
+Oil can
+Crumbling tome
+Monkey skull
+Brewin' guide
+Hourglass (Recruitment Drive)
+Stick (item)
+Poison (item)
+Rubber tube
+Criminal's dagger
+Grimy guam leaf
+Tankard
+Damp sticks
+Picture
+Address form
+Shaman robe
+Washing bowl
+Keg
+Queen help book
+Guide book
+Embalming manual
+Glassblowing book
+Blood rune
+Letter (The Golem)
+Lift manual
+Black cog
+White cog
+Blue cog
+Grey toy horsey
+Smashed glass
+Ahab's beer
+Flash powder
+Tiles (Rogues' Den)
+Smelly journal
+Burnt shrimp
+Burnt fish (sardine)
+Burnt fish (herring)
+Burnt fish (anchovies)
+Lamp (Spirits of the Elid)
+Corsair Cove Resource Area
+Oak shield
+Bloody bracer
+Bloody grimoire
+The turncloak
+Explosive discovery
+Old key
+Deed
+Metal spade
+Cup of tea (Zogre Flesh Eaters)
+Keg of beer (The Fremennik Trials)
+Coins (Shilo Village)
+Dragonstone (Mage Training Arena)
+Pat of not garlic butter
+Blood pint
+Rope (Olaf's Quest)
+Old note (Secluded Chapel)
+White apron (Gerrant's Fishy Business)
+Brewin' guide (unobtainable item)
+Rotten barrel (unobtainable item)
+Wine of zamorak (unobtainable item)
+Keg (dummy item)
+Bottle of 'tonic'
+Odd spectacles
